@@ -1,1 +1,1 @@
-# MuratInal_Kodluyoruz_Yemeksepeti_Bootcamp_Homeworks
+This repository contains the homeworks I did during the 83rd Yemeksepeti Full Stack (.Net, JavaScript & React) Bootcamp. The contents of the assignments are available in the README.md file in the folder where they are located.
