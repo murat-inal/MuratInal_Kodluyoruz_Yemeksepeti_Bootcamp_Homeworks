@@ -1,0 +1,54 @@
+body {
+  padding: 50px;
+  background-color: #66CCFF;
+  font-family: sans-serif;
+}
+#root{
+  display: flex;
+  justify-content: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.todo-list {
+  background: #e8e8e8;
+  max-width: 500px;
+  padding: 50px;
+  border-radius: 10px;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.list {
+  align-items: center;
+  background: rgb(77, 138, 230);
+  border-radius: 6px;  
+  display: flex;
+  font-size: 20px;
+  justify-content: space-between;
+  margin-top: 6px;
+  padding: 3px 10px;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.header{
+  color:rgb(255, 123, 0);
+  text-align: center;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+.input{
+  width:500px;
+  height:50px;
+  font-size: 18px;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+.form{
+  display:flex;
+}
+.add-btn{
+  margin-left: 20px;
+  width: 50px;
+  height:50px;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
