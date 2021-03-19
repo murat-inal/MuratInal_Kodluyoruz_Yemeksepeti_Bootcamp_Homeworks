@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Homework_4_Q4</name>
+    </assembly>
+    <members>
+        <member name="M:Homework_4_Q4.Controllers.StudentsController.GetList">
+            <summary>
+             Get all students.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Homework_4_Q4.Controllers.StudentsController.GetById(System.Int32)">
+            <summary>
+            Get the teacher whose id is equal to the id entered.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Homework_4_Q4.Controllers.StudentsController.Post(Homework_4_Q4.Entity.Student)">
+            <summary>
+            Add new teacher which is given in body.
+            </summary>
+            <param name="teacher"></param>
+        </member>
+        <member name="M:Homework_4_Q4.Controllers.StudentsController.Delete(Homework_4_Q4.Entity.Student)">
+            <summary>
+            Delete an existing teacher whose informations are given in body.
+            </summary>
+            <param name="teacher"></param>
+        </member>
+        <member name="M:Homework_4_Q4.Controllers.StudentsController.Update(Homework_4_Q4.Entity.Student)">
+            <summary>
+            Update an existing teacher whose informations are given in body.
+            </summary>
+            <param name="teacher"></param>
+        </member>
+        <member name="M:Homework_4_Q4.Controllers.TeachersController.GetList">
+            <summary>
+             Get all teachers.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Homework_4_Q4.Controllers.TeachersController.GetById(System.Int32)">
+            <summary>
+            Get the teacher whose id is equal to the id entered.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Homework_4_Q4.Controllers.TeachersController.Post(Homework_4_Q4.Entity.Teacher)">
+            <summary>
+            Add new teacher which is given in body.
+            </summary>
+            <param name="teacher"></param>
+        </member>
+        <member name="M:Homework_4_Q4.Controllers.TeachersController.Delete(Homework_4_Q4.Entity.Teacher)">
+            <summary>
+            Delete an existing teacher whose informations are given in body.
+            </summary>
+            <param name="teacher"></param>
+        </member>
+        <member name="M:Homework_4_Q4.Controllers.TeachersController.Update(Homework_4_Q4.Entity.Teacher)">
+            <summary>
+            Update an existing teacher whose informations are given in body.
+            </summary>
+            <param name="teacher"></param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6MwnDnwCqcZq4X6a8DmUpWrKQR8cLuRkY4p3kGoPsyIg5vD7yHUoZmpxWNU2C0m6IW+ijvfhBlZv0tCjJw+2zQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Murat\\Desktop\\Kodluyoruz Full Stack Bootcamp\\Homeworks\\4\\Homework_4_Q7\\Versioning.Header\\Versioning.Header.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murat\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
